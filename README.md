@@ -8,7 +8,7 @@ The Next.js project is a powerful framework for building server-rendered React a
 
 # Live Preview
 
-[Live Preview](https://next-js-13-4-tau.vercel.app/)
+[Live Preview](https://next-js-13-4-seven.vercel.app)
 
 # Prerequisites
 
