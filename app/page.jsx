@@ -1,9 +1,9 @@
 import React from 'react';
-import Header from "@/app/header";
+
 
 const Page = () => {
     return (
-        <div>
+        <div className="font-bold text-2xl flex items-center justify-center text-center">
          Home Page
         </div>
     );

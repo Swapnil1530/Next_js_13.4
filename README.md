@@ -6,6 +6,10 @@ This README provides an overview and guidelines for getting started with your in
 
 The Next.js project is a powerful framework for building server-rendered React applications. It combines the benefits of React with server-side rendering, automatic code splitting, and an intuitive routing system.
 
+# Live Preview
+
+[Live Preview](https://next-js-13-4-tau.vercel.app/)
+
 # Prerequisites
 
 - Node.js (version 16.8.X or higher)
@@ -13,8 +17,8 @@ The Next.js project is a powerful framework for building server-rendered React a
 
 # Installation
 
-1. Clone the repository: git clone https://github.com/your-repo.git
-2. Navigate to the project directory: cd your-repo
+1. Clone the repository: git clone https://github.com/Swapnil1530/Next_js_13.4.git
+2. Navigate to the project directory: cd Next_js_13.4
 3. Install dependencies: npm install
 
 # Usage
